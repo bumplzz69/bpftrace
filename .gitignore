@@ -1,3 +1,4 @@
 build/
 build-*/
 tests/python/*.pyc
+tests/python/*.exe

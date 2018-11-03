@@ -884,7 +884,7 @@ That would fire once for every 1000000 cache misses. This usually indicates the 
 - `arg0`, `arg1`, ..., `argN`. - Arguments to the traced function
 - `retval` - Return value from traced function
 - `func` - Name of the traced function
-- `probe` - Full name of the probe
+- `name` - Full name of the probe
 - `curtask` - Current task struct as a u64
 - `rand` - Random number as a u32
 - `cgroup` - Cgroup ID of the current process
